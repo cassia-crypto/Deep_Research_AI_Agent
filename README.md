@@ -57,9 +57,9 @@ Copy
 Edit
 git clone https://github.com/cassia-crypto/Deep_Research_AI_Agent
 cd Deep_Research_AI_Agent
-2. Install the dependencies:
-Create a virtual environment (recommended) and install the necessary Python libraries:
 
+3. Install the dependencies:
+Create a virtual environment (recommended) and install the necessary Python libraries:
 bash
 Copy
 Edit
@@ -67,15 +67,16 @@ python -m venv venv
 source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate     # For Windows
 pip install -r requirements.txt
+
 3. Set up your Tavily API key:
 Make sure to create an account with Tavily and get your API key. Set your API key as an environment variable:
-
 bash
 Copy
 Edit
-export TAVILY_API_KEY='your-tavily-api-key'  # For macOS/Linux
-set TAVILY_API_KEY='your-tavily-api-key'     # For Windows
-4. Run the system:
+export TAVILY_API_KEY  # For macOS/Linux
+set TAVILY_API_KEY     # For Windows
+
+5. Run the system:
 Once everything is set up, you can run the system using:
 
 bash
