@@ -55,8 +55,8 @@ To run this system locally, follow these steps:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/deep-research-ai-agent.git
-cd deep-research-ai-agent
+git clone https://github.com/cassia-crypto/Deep_Research_AI_Agent
+cd Deep_Research_AI_Agent
 2. Install the dependencies:
 Create a virtual environment (recommended) and install the necessary Python libraries:
 
