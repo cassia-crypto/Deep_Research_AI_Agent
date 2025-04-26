@@ -1,4 +1,6 @@
 AI Agent-Based Deep Research System
+
+
 This repository contains the implementation of an AI agent-based Deep Research System that utilizes Tavily for online information gathering. The system features a dual-agent architecture: one agent for research and data collection, and another agent for drafting the final answer. It is designed using the LangGraph and LangChain frameworks to organize and manage the gathered data.
 
 Table of Contents
